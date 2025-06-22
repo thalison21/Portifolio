@@ -9,6 +9,10 @@
     body {
       font-family: 'Albert Sans', sans-serif;
       line-height: 1.6;
+      background-image:url(../assets/warframe.png);
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-attachment: fixed;
       color: #ffffff;
       padding-bottom: 50px;
     }
